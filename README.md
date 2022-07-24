@@ -8,10 +8,10 @@
 - 🤔 What currently am I doing?
 - I am Working cyber security and web developement (such as: Python, Pandas, Matplotlib, Saeborn, MySQL)\n
 - 📫 How to reach me?
-- Email --> suryapratap8562@gmail.com
-- LinkedIN --> linkedin.com/in/surya-pratap-871b95187/
-- Instagram --> https://www.instagram.com/demon77_32/
-- Mobile No. --> +91 8512068247
+- Email --> shubham.bhatt.1302@gmail.com
+- LinkedIN --> 
+- Instagram --> 
+- Mobile No. --> +91 9599768016
 
 - I'm Currently Doing Bachelors of Computer Applications and After that I will persue the Master's Degree in Computer Application.
    In Between I'll Greece myself and develop my skills and make me professional in These following Things:
